@@ -1,0 +1,66 @@
+{
+  "products": [
+    {
+      "id": "8905202096306",
+      "parentTitle": "Truffle Collect ion Rose Gold Casual Boots",
+      "brand": "F00264",
+      "variants": [
+        {
+          "variantId": "8905202096306",
+          "title": "Truffle Collection Rose Gold Casual Boots",
+          "sku": "TC-WHAM2-CHAMPSA TIN-03",
+          "size": "footsizeuk3",
+          "color": "colorfamilyfootweargold",
+          "live": true,
+          "productDescription": "Renovate the look of your footwear closet by adding this elegant and styl ish pair of Truffle Collection rose gold casual boots. It comes with manmade leather upper, resin sheet sole and a pointed shaped tip that offers optimum surface traction  and relaxation to your feet. Pair it with a bodycon dress for a perfect party look.",
+          "itemPrice": {
+            "currency": "INR",
+            "listingPrice": 1749,
+            "mrp": 4999,
+            "msp": 1749,
+            "netSellerPa yable": 0
+          },
+          "inventory": 0,
+          "blockedInventory": 0,
+          "pendency": 0
+        }
+      ],
+      "commissionPercentage": 0,
+      "paymentGatewayCharge": 0,
+      "logisticsCost": 0,
+      "additionalInfo": "N/A",
+      "created": "2017-05- 25 18:59:32.819"
+    },
+    {
+      "id": "8905201534144",
+      "parentTitle": "Truffle Collection Silver Sling Back Wedges",
+      "brand": "F00264",
+      "variants": [
+        {
+          "variantId": "8905201534144",
+          "title": "Truffle Collection Silver Sling Back Wedges",
+          "sku": "TC-ROCH1-SILVER-06",
+          "size": "footsizeuk6",
+          "color": "colorfamilyfootwearsilver",
+          "live": true,
+          "productDescription": " Sport a trendy look with this pair of silver ethnic sandals from Truffle Collection that features a closure. It is made of high quality TPR sole that offers superior grip . Furthermore, the manmade leather upper guarantees to keep your feet at ease throughout the day. The stylish round shaped tip will enhance your look. Wear it with a flor al skater dress to complete your stylish look for any casual occasion.",
+          "itemPrice": {
+            "currency": "INR",
+            "listingPrice": 919,
+            "mrp": 2299,
+            "msp": 919,
+            "netSellerPayable": 0
+          },
+          "inventory": 0,
+          "blockedInventory": 0,
+          "pendency": 0
+        }
+      ],
+      "commissionPercentage": 0,
+      "paymentGatewayCharge": 0,
+      "logisticsCost": 0,
+      "additionalInfo": "N/A",
+      "created": "2017-05-25 12:57:28.313"
+    }
+  ]
+}
